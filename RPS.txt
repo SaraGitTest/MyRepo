@@ -1,7 +1,7 @@
 from random import randint # choices[randint(len(choices))]
  
-# # # BCC
-choices = ("Ball", "Candy", "Cone")
+# # # SCC
+choices = ("Stone", "Cocoa", "Cone")
  
  
 def winner(pc, cc):  # check who wins. rock > scissors > paper > rock
