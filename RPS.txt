@@ -1,7 +1,7 @@
 from random import randint # choices[randint(len(choices))]
  
 
-# # # STC
+# # # Rock STone Paper Scissors
 choices = ("Stone", "Kite", "Cone")
  
  
